@@ -109,6 +109,8 @@ to the list of content scripts towards the bottom. Note you need a comma between
 
 ### (bonus) Share! 
 
+Make a pull request for your script here, or reach out to tell me how it went!
+
 # Possible future work
 
 This extension is still in early alpha (and may not get much development time). 
