@@ -1,0 +1,12 @@
+{
+	"name": "YouTube Engagement Confirmation",
+	"version": "0.2",
+	"description": "Asks about the video before engaging with YouTube content.",
+	"manifest_version": 3,
+	"content_scripts": [
+	{
+		"matches": ["*://www.youtube.com/*"],
+		"js": ["youtubeContentScript.js"]
+	}
+	]
+}
