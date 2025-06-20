@@ -139,6 +139,10 @@ We collect a few of the media literacy resources we've seen and used in building
 A teaching resource. Basic definitions, an overview of the problem, and its own list of resources suitable for lesson planning and teaching K-12. 
 (Speaking personally, some of the lessons are also fun for adults.)
 
+[NAMLE media literacy handbook](https://namle.org/media-literacy-handbook/)
+
+A teaching resource. Extended lesson plans for K-12.
+
 [Crash Course Media Literacy](https://youtu.be/sPwJ0obJya0?si=fsxB5YvOKSs3iFjM)
 
 A teaching resource. The Crash Course series has created brief videos on a dizzying array of topics, all suitable for classroom use or for self-education. The media literacy series (from 2018) in particular helped inspire this project. Note additional sources in the comments of these videos. 
