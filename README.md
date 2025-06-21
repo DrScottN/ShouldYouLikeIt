@@ -3,7 +3,7 @@
 A browser extension for practicing and teaching social media literacy.
 
 > [!IMPORTANT]
-> (Upload in progress) This project is a proof of concept, and is unlikely to be maintained. Currently only alters YouTube engagement buttons (excluding shorts).
+> This project is a proof of concept, and is unlikely to be maintained. Currently only alters YouTube engagement buttons (excluding shorts).
 
 # Introduction
 
@@ -170,6 +170,10 @@ An opinion piece on accurate scientific reporting online. In particular, arguing
 [Article: Six tips for avoiding misinformation](https://yalebooks.yale.edu/2019/03/15/six-tips-for-avoiding-misinformation-on-social-media/)
 
 A brief article. Describes several techniques and questions to improve social media literacy. The source of many of the prompts.
+
+[Article: Four ways to combat misinformation](https://ethicalleadership.nd.edu/thought-leadership/how-to-stop-the-spreadof-misinformation)
+
+A brief article on how misinformation caused harm during the pandemic, and discussing strategies to better manage 'infodemics'.
 
 [Reel-control on micro-video](https://github.com/darajava/reel-control)
 
